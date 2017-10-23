@@ -18,4 +18,4 @@ My research work intersects following cross-cutting areas:
 
 Before moving to the beautiful campus of [UF](http://virtualtour.ufl.edu/), I was in Manhattan, Kansas, pursuing my MS in [Computer Science at Kansas State University](https://www.cs.ksu.edu/) under the supervision of [Dr. Eugene Vasserman](https://people.cs.ksu.edu/~eyv/). 
 My MS project was on **text mining in [Stack Overflow](https://stackoverflow.com/) dataset to explore the challenges of software developers utilizing _security 
-related featured_ while coding**. Here's a link to my report: [An Empirical Case Study on Stack Overflow to Explore Developers’ Security Challenges](http://krex.k-state.edu/dspace/handle/2097/34563).
+related features_ while programming**. Here's a link to my report: [An Empirical Case Study on Stack Overflow to Explore Developers’ Security Challenges](http://krex.k-state.edu/dspace/handle/2097/34563).
