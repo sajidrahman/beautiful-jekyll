@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sajidur Rahman. Currently I am working in [Florida Institute for Cybersecurity Research](http://fics.institute.ufl.edu/) as a graduate research assistant under the supervision of [Dr. Daniela Oliveira](http://www.daniela.ece.ufl.edu/Home.html).
+My research work intersects following cross-cutting areas: 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Security & Privacy Design
+- Human-Computer Interaction
+- Software Engineering
+- Social Computing
 
-What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Before moving to the beautiful campus of [UF](http://virtualtour.ufl.edu/), I was in Manhattan, Kansas, pursuing my MS in [Kansas State University](https://www.cs.ksu.edu/) under the supervision of [Dr. Eugene Vasserman](https://people.cs.ksu.edu/~eyv/). My MS work was on *text mining in [Stack Overflow](https://stackoverflow.com/) dataset* to explore the challenges of software developers utilizing _security related featured_ while coding. Here's a link to my report: [An Empirical Case Study on Stack Overflow to Explore Developers’ Security Challenges](http://krex.k-state.edu/dspace/handle/2097/34563).
