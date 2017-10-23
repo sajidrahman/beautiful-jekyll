@@ -5,7 +5,11 @@ bigimg: /img/python.jpg
 tags: [user-study, python-developers]
 ---
 
-Recruiting **Python Software Developers** (Python Only) for participating in a research study. Compensation in US dollars (gift card): **$50 for professionals** working with software development and testing(1+yrs of experience) and **$20 for graduate students (with working knowledge of Python)**. 
+My research group at University of Florida is recruiting **Python Software Developers** for participating in a research study. The goal of
+this study is to understand developer's decision making process and it's impact on software development in languages like Python. Participants will be 
+compensated in US dollars (gift card): 
+- **$50 for professionals** working with software development and testing(1+yrs of experience) and 
+- **$20 for graduate students (with working knowledge of Python)**. 
 
 Tasks: 
 1. Complete a multiple choice survey about programming 
