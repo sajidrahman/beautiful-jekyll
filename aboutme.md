@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Hi, I am Sajidur Rahman, friends and acquaintances call me _Sajid_. Currently I am working in 
+Hi, I am Sajidur Rahman, friends and acquaintances call me _'Sajid'_ (pronounced as 'SA-ZID'). Currently I am working in 
 [Florida Institute for Cybersecurity Research](http://fics.institute.ufl.edu/) as a graduate research assistant 
 under the supervision of [Dr. Daniela Oliveira](http://www.daniela.ece.ufl.edu/Home.html).
 My research work intersects following cross-cutting areas: 
