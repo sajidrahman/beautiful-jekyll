@@ -10,7 +10,7 @@ Quoting editor's note from [SANS NewsBites](https://view.email.sans.org/?qs=226e
 "This flawed standard is less likely going to affect end users, but more a problem to manufacturers of "Systems on a Chip" devices. The standard is used to encrypt and authenticate drawings exchanged between companies. An adversary would be able to replace features in drawings (for example adding a backdoor) without the manufacturer of the device realizing that they are producing an altered circuit."
 
 Read more here :
-[BleepingComputer](http://www.bleepingcomputer.com/news/security/crypto-bugs-in-ieee-standard-expose-intellectual-property-in-plaintext/)
-[ThreatPost](http://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/)
-[CERT](http://www.kb.cert.org/vuls/id/739007)
-[Read the research paper here](http://eprint.iacr.org/2017/828.pdf)
+- [Read the research paper here](http://eprint.iacr.org/2017/828.pdf)
+- [BleepingComputer](http://www.bleepingcomputer.com/news/security/crypto-bugs-in-ieee-standard-expose-intellectual-property-in-plaintext/)
+- [ThreatPost](http://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/)
+- [CERT Warning](http://www.kb.cert.org/vuls/id/739007)
