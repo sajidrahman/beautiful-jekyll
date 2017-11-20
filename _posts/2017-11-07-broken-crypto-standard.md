@@ -2,6 +2,7 @@
 layout: post
 title: When the Devil is in the Crypto Standard
 bigimg: /img/crypto.jpg
+share-img: /img/crypto.jpg
 tags: [IEEE P1753, Cryptography, Vulnerability]
 ---
 What happens when a _security specification_ goes wrong - not because people use it in a wrong way, but the specification is poorly constructed without giving much thought about **potential security risks**? Well, kudos to the researchers from my research lab at [FICS](http://fics.institute.ufl.edu/) who have unveiled the broken standard, namely IEEE P1735 before it causes major damage. The IEEE P1735 standard is used to protect digital intellectual property. It allows vendors to combine their code to create new products while ostensibly protecting their intellectual property from reverse engineering and theft. Researchers have found **seven _CVEs_** in cryptographic standard that can be exploited to gain access to _intellectual property in plain_.
