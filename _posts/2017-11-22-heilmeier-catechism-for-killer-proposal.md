@@ -2,7 +2,6 @@
 layout: post
 title: The Heilmeier Catechism
 subtitle: ...or what to include in a killer proposal
-bigimg: /img/research.png
 share-img: /img/research.png
 tags: [Heilmeier, research proposal]
 ---
