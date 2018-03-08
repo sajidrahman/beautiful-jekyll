@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Recruiting Python Developers for User Study
+bigimg: /img/python.jpg
 share-img: /img/python.jpg
 tags: [user-study, python-developers]
 ---
@@ -19,4 +20,4 @@ This study is part of a _National Science Foundation research grant_ and is appr
 
 Feel free to share it in your network, your help is highly appreciated.
 
-<!-- Post-image Credit: [Udemy](https://www.udemy.com/python-programming-projects/) -->
+Image credit: [Udemy](https://www.udemy.com/python-programming-projects/)
