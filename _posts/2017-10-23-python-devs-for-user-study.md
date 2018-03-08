@@ -5,7 +5,7 @@ share-img: img/python.jpg
 tags: [user-study, python-developers]
 ---
 
-My research group at University of Florida is recruiting **Python Software Developers** to participate in a research study. The goal of
+My research group at the University of Florida is recruiting **Python Software Developers** to participate in a research study. The goal of
 this study is to __understand developers' code-comprehension and its impact on software development__. Participants will be compensated in US dollars (Amazon.com gift card):
 - **$50 Gift Card for professionals** working with software development and testing(1+yrs of experience) and
 - **$20 Gift Card for graduate students (with working knowledge of Python)**.
