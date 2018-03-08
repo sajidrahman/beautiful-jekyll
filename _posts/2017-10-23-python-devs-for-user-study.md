@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recruiting Python Developers for User Study
-share-img: img/python.jpg
+share-img: /img/python.jpg
 tags: [user-study, python-developers]
 ---
 
