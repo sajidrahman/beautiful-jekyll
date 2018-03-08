@@ -7,12 +7,12 @@ tags: [user-study, python-developers]
 ---
 
 My research group at the University of Florida is recruiting **Python Software Developers** to participate in a research study. The goal of
-this study is to __understand developers' code-comprehension and its impact on software development__. Participants will be compensated in US dollars (Amazon gift card):
-- **$50 Gift Card for professionals** working with software development and testing(1+yrs of experience) and
+this study is to __understand developers' code-comprehension and how it impacts software development__. Participants will be compensated in US dollars (Amazon gift card):
+- **$50 Gift Card for professionals** working in software development and testing(1+yrs of experience) and
 - **$20 Gift Card for graduate students (with working knowledge of Python)**.
 
 Tasks:
-1. Complete a multiple choice survey about programming
+1. Complete a multiple choice survey about programming.
 2. Complete a short questionnaire on personality and cognitive tasks.
 
 If you're interested, please contact here <psy-ebnerlab@psych.ufl.edu> .
