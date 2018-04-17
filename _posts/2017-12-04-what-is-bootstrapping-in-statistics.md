@@ -11,3 +11,5 @@ tags: [statistics, notes, bootstrapping]
 
 
 **Slide Credit:** https://www.slideshare.net/smackinnon/introduction-to-mediation
+
+Here's another nice discussion on boottsrapping https://www.iwh.on.ca/what-researchers-mean-by/bootstrapping
