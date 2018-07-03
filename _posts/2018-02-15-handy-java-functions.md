@@ -6,8 +6,9 @@ tags: [Java, Miscellaneous, functions]
 ---
 #### Object Ordering/Comparing:
 
-A ``List l`` can be sorted as follows:
-``Collections.sort(l)``. If the ``List`` consists of built-in class objects, e.g. ``String, Integer, Long, Date, Character, File`` etc., then the objects will be sorted in a way of _natural_ ordering of that class. But for objects from custom classes, our class needs to either implement ``Comparable`` interface or it can implement ``Comparator`` interface to provide a custom comparator for ``Collections.sort(list, comparator)`` method. The following example is borrowed from [Oracle's tutorial](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html) page.
+1. A ``List l`` can be sorted as follows:
+``Collections.sort(l)``. If the ``List`` consists of built-in class objects, e.g. ``String, Integer, Long, Date, Character, File`` etc., then the objects will be sorted in a way of _natural_ ordering of that class. But for objects from custom classes, our class needs to either implement ``Comparable`` interface or it can implement ``Comparator`` interface to provide a custom comparator for ``Collections.sort(list, comparator)`` method. The following example is adapted from [Oracle's tutorial](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html) page.
+
 ```java
 
 import java.util.*;
@@ -36,4 +37,31 @@ public class EmpSort {
         System.out.println(employeeList);
     }
 }
+```
+2. Similar to `List`, `java.util.Arrays` also provides convenient `sort()` method for ordering primitive data types. For example, the following example sorts an integer array in `O(n log(n))`. The sort method here implements a [dual-pivot Quicksort](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#sort(int[]) algorithm.
+
+```java
+
+import java.util.Arrays;
+
+public class SortExample
+{
+    public static void main(String[] args)
+    {
+        int[] arr = {13, 77, 609, 45, 21, 9, 101, 102, -101, 30};
+
+        Arrays.sort(arr);
+
+        System.out.printf("Modified arr[] : %s", Arrays.toString(arr));
+    }
+}
+```
+
+#### Conversion
+1. String to Character array:
+
+```java
+
+String string = "Hello world!";
+char[] stringToCharArray = string.toCharArray();
 ```
