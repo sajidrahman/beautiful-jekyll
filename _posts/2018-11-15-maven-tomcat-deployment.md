@@ -2,9 +2,10 @@
 layout: post
 title: Deploying in Apache Tomcat via Maven-Tomcat plugin
 share-img: /img/misc.jpg
-tags: [Java, Miscellaneous, Tomcat, Maven]
+tags: [Tomcat, Miscellaneous, Maven]
 ---
-1. Add the following user-roles and user (specially a user with roles of ```manager-jmx,manager-script```, see 'maven' user, for example) in tomcat-users.xml file.
+1. Add the following user-roles and user (specially a user with roles of ```manager-jmx,manager-script```, see 'maven' user, for example) in tomcat-users.xml file. (Sidenote: you can create a user with ```manager-gui``` role to access Tomcat manager interface from your browser, that's pretty cool and handy!!)
+
 ```xml
 <!--This file is located in %TOMCAT_HOME%/conf/tomcat-users.xml -->
 <?xml version='1.0' encoding='utf-8'?>
@@ -18,7 +19,6 @@ tags: [Java, Miscellaneous, Tomcat, Maven]
 
 </tomcat-users>
 ```
-(Sidenote: you can create a user with ```manager-gui``` role to access Tomcat manager interface from your browser, that's pretty cool and handy!!)
 
 2. Add above Tomcat’s user ('maven' user in this case) in the Maven setting file, later Maven will use this user to login Tomcat server.
 ```xml
@@ -37,7 +37,9 @@ tags: [Java, Miscellaneous, Tomcat, Maven]
     </servers>
 </settings>
 ```
+
 N.B. In case of a project running in IntelliJ, view/create maven settings.xml file from POM --> MAVEN --> Open Settings.xml (Or Create Settings.xml, if settings.xml is not present).
+
 
 3. Declare a maven-tomcat plugin in pom.xml.
 
@@ -53,6 +55,7 @@ N.B. In case of a project running in IntelliJ, view/create maven settings.xml fi
 		</configuration>
 	</plugin>
 ```
+
 Here, we are configuring maven-tomcat plugin to access TomcatServer with credentials defined in maven's settings.xml file and deploy our app in this context path **/mycoolapp**.
 
 4. Run Tomcat Server (from command line %TOMCAT_HOME%/bin/startup.sh).
