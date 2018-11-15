@@ -20,7 +20,8 @@ tags: [Tomcat, Miscellaneous, Maven]
 </tomcat-users>
 ```
 
-2. Add above Tomcat’s user ('maven' user in this case) in the Maven setting file, later Maven will use this user to login Tomcat server.
+2. Add above Tomcat’s user ('maven' user in this case) in the Maven setting file, later Maven will use this user to login Tomcat server.( N.B. In case of a project running in IntelliJ, view/create maven settings.xml file from POM --> MAVEN --> Open Settings.xml (Or Create Settings.xml, if settings.xml is not present).)
+
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -38,9 +39,6 @@ tags: [Tomcat, Miscellaneous, Maven]
     </servers>
 </settings>
 ```
-
-N.B. In case of a project running in IntelliJ, view/create maven settings.xml file from POM --> MAVEN --> Open Settings.xml (Or Create Settings.xml, if settings.xml is not present).
-
 
 3. Declare a maven-tomcat plugin in pom.xml.
 
