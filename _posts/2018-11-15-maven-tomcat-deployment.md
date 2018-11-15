@@ -18,7 +18,7 @@ tags: [Java, Miscellaneous, Tomcat, Maven]
 
 </tomcat-users>
 ```
-[Sidenote: you can create a user with ```manager-gui``` role to access Tomcat manager interface from your browser, that's pretty cool and handy!!]
+(Sidenote: you can create a user with ```manager-gui``` role to access Tomcat manager interface from your browser, that's pretty cool and handy!!)
 
 2. Add above Tomcat’s user ('maven' user in this case) in the Maven setting file, later Maven will use this user to login Tomcat server.
 ```xml
@@ -37,7 +37,7 @@ tags: [Java, Miscellaneous, Tomcat, Maven]
     </servers>
 </settings>
 ```
-[N.B. In case of a project running in IntelliJ, view/create maven settings.xml file from POM --> MAVEN --> Open Settings.xml (Or Create Settings.xml, if settings.xml is not present).]
+N.B. In case of a project running in IntelliJ, view/create maven settings.xml file from POM --> MAVEN --> Open Settings.xml (Or Create Settings.xml, if settings.xml is not present).
 
 3. Declare a maven-tomcat plugin in pom.xml.
 
