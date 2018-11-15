@@ -21,6 +21,7 @@ tags: [Tomcat, Miscellaneous, Maven]
 ```
 
 2. Add above Tomcat’s user ('maven' user in this case) in the Maven setting file, later Maven will use this user to login Tomcat server.
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
