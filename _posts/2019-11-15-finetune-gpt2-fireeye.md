@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Attention is All They Need
+bigimg: /img/lm-finetune-fireeye.png
 share-img: /img/lm-finetune-fireeye.png
+image: /img/lm-finetune-fireeye.png
 tags: [GPT-2, FireEye, Disinformation, Threat Research, Internship]
 ---
 
