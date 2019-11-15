@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customizing iTerm2
+title: Attention is All They Need
 share-img: /img/lm-finetune-fireeye.png
 tags: [GPT-2, FireEye, Disinformation, Threat Research, Internship]
 ---
@@ -14,4 +14,3 @@ Our experiment also sheds light on future internet safety and security, speciall
 Hope you'll enjoy reading the article, and don't forget to share 😊 
 
 Photo Credit: ["Attention is All They Need" -- FireEye Article](https://www.fireeye.com/blog/threat-research/2019/11/combatting-social-media-information-operations-neural-language-models.html)
-
