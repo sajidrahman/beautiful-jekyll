@@ -5,7 +5,6 @@ title: About me
 
 Hi, My name is Sajidur Rahman, friends and acquaintances call me _'Sajid'_ (pronounced as 'SA-ZID'). I am a PhD Student at University of Florida 🐊 (one & only Gator Nation). I work at
 [Florida Institute for Cybersecurity Research](http://fics.institute.ufl.edu/) as a graduate research assistant.
-<!--under the supervision of [Prof. Daniela Oliveira](http://www.daniela.ece.ufl.edu/Home.html). -->
 My research work intersects following cross-cutting areas:
 <!--- Usable Security & Privacy Design - Human-Computer Interaction -->
 
@@ -28,6 +27,8 @@ My MS project was on **text mining in [Stack Overflow](https://stackoverflow.com
 <!--For my detailed work experience, click [here to view my resume](/static/resume-sajid.pdf). -->
 
 ### Recent Updates
+- June 2020 : Our talk proposal on _Language Models and Disinformation_ has been acceptedScAINet (co-located with Usenix Security'20)  🔥 
+- May 26, 2020 : Started research internship at Avast, inc 
 - Nov. 19, 2019: My Intern Project (_Social Media Information Operations and Neural Language Models_) is featured on [WIRED](https://www.wired.com/story/to-see-the-future-of-disinformation-you-build-robo-trolls/) and [FireEye Official Page](https://www.fireeye.com/blog/threat-research/2019/11/combatting-social-media-information-operations-neural-language-models.html). 🔥🔥🦄
 - Nov. 13, 2019: Our paper [Exploring Local Practices of Exchanging Confidential and Sensitive Information in Urban Bangladesh](https://dl.acm.org/citation.cfm?id=3359275) has been presented at CSCW'19 Conference. 📢
 - Oct 2019: Preprint version of our paper [Efficient and Transferable Black-Box Attacks on Speech Recognition and Voice Identification Systems](https://arxiv.org/abs/1910.05262) is on ArXiv. 📢
