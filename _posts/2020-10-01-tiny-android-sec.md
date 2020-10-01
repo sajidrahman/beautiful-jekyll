@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My Diary for ML/DL
+title: Tiny Android Security Tutorial
 share-img: /img/misc.jpg
-tags: [Machine learning, Deep learning]
+tags: [Android, Security, Secure Development]
 ---
 [Secure Android App Development]
 Free MOOC (now retired) offered by University of Southampton
