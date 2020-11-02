@@ -5,7 +5,7 @@ share-img: /img/misc.jpg
 tags: [latex, tricks, hacks, howtos]
 ---
 
-###Mark certain bibliography items with asterisk (for example) marks
+### Mark certain bibliography items with asterisk (for example) marks
 
 - Add `keywords={important}`in that particular entry in .bib file
 
@@ -27,7 +27,7 @@ tags: [latex, tricks, hacks, howtos]
 
 - Voila! [source](https://tex.stackexchange.com/questions/402765/how-do-i-mark-bibliography-entries-in-the-margin?rq=1)
 
-###Add Markdown Support in Latex
+### Add Markdown Support in Latex
 
 - Add `markdown`package in the preamble
 
@@ -54,8 +54,7 @@ tags: [latex, tricks, hacks, howtos]
   	bibtex main
   	pdflatex --shell-escape main
   	pdflatex --shell-escape main
-  
-  
+
   clean:
   	rm -f *.pdf
   	rm -f *.dvi
